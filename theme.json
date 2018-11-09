@@ -1,0 +1,10 @@
+{
+  "colors": {
+    "main": "#9932CC",
+    "secondary": "red"
+  },
+  "fonts": {
+    "title": "AppleColorEmoji",
+    "body": "AmericanTypewriter-Bold"
+  }
+}
